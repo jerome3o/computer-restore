@@ -1,0 +1,18 @@
+Powershell
+scripts:
+  -profile
+packages:
+  -psget
+  -poshgit
+
+General Applicatons
+browser:
+  -chrome
+editors:
+  -pycharm
+  -sublime / atom
+
+Other
+hotkeys:
+  -hotkey ahk script
+  -change the capslock key to end in register (windows)
