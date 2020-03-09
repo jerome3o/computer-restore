@@ -1,18 +1,19 @@
 Powershell
 scripts:
-  -profile
+  -profile (this should be source controlled)
 packages:
-  -psget
-  -poshgit
+  -psget (i think this is already there)
+  -poshgit (Install-Module poshgit)
 
 General Applicatons
+programming:
+  -python (latest version)
 browser:
   -chrome
 editors:
   -pycharm
-  -sublime / atom
+  -atom
 
 Other
 hotkeys:
   -hotkey ahk script
-  -change the capslock key to end in register (windows)
