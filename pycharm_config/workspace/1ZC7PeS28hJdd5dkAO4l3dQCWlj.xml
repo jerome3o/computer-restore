@@ -1,0 +1,136 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GetMAT_CDV</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Mission/Flight 10 Ale/20191206-R5.4-Flight/Vibration/20191029-R5.3-RangeErectorRvLevels.py" />
+        <option value="$PROJECT_DIR$/Mission/Flight 10 Ale/20191206-R5.4-Flight/Vibration/20191206-R5.4-RangeErectorRvLevels.py" />
+        <option value="$PROJECT_DIR$/Mission/Flight 10 Ale/20191206-R5.4-Flight/Thermal/TC_Setup.py" />
+        <option value="$PROJECT_DIR$/Libraries/CDV_Lib.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-1852" y="-8" width="1920" height="1040" extendedState="7" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Mission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Mission" type="462c0819:PsiDirectoryNode" />
+              <item name="Flight 11 RASR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Mission" type="462c0819:PsiDirectoryNode" />
+              <item name="Flight 11 RASR" type="462c0819:PsiDirectoryNode" />
+              <item name="20200131-R5.5-Flight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Mission" type="462c0819:PsiDirectoryNode" />
+              <item name="Flight 11 RASR" type="462c0819:PsiDirectoryNode" />
+              <item name="20200131-R5.5-Flight" type="462c0819:PsiDirectoryNode" />
+              <item name="Thermal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25171143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53461975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30419978" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291714" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" weight="0.32978722" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.07340425" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291714" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.17765957" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Mission/Flight 10 Ale/20191206-R5.4-Flight/Vibration/20191029-R5.3-RangeErectorRvLevels.py" />
+    <entry file="file://$USER_HOME$/Mission/Flight 11 RASR/20200131-R5.5-Flight/Thermal/20191206_R5.4_TC_Config.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/mpl_toolkits/axes_grid1/parasite_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Mission/Flight 10 Ale/20191206-R5.4-Flight/Vibration/20191206-R5.4-RangeErectorRvLevels.py" />
+    <entry file="file://$USER_HOME$/Mission/Flight 11 RASR/20200131-R5.5-Flight/Thermal/20200131_R5.4_TC_Config.py" />
+    <entry file="file://$USER_HOME$/Mission/Flight 11 RASR/20200131-R5.5-Flight/Thermal/TC_Setup.py" />
+    <entry file="file://$PROJECT_DIR$/Mission/Flight 11 RASR/20200131-R5.5-Flight/Thermal/TC_Setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mission/Flight 11 RASR/20200131-R5.5-Flight/Thermal/20200131_R5.4_TC_Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mission/Flight 10 Ale/20191206-R5.4-Flight/Thermal/20191206_R5.4_TC_Config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mission/Flight 10 Ale/20191206-R5.4-Flight/Thermal/TC_Setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="245" column="15" selection-start-line="244" selection-start-column="12" selection-end-line="245" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/CDV_Lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="335" column="16" selection-start-line="335" selection-start-column="6" selection-end-line="335" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

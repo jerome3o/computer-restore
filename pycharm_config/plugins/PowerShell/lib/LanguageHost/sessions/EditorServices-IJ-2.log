@@ -1,0 +1,411 @@
+2020-04-02 19:05:40.932 [NORMAL] tid:15 in 'StartLogging' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 183
+    
+    PowerShell Editor Services Host v1.10.1.0 starting (PID 34384
+    
+      Host application details:
+    
+        Name:      PyCharm
+        Version:   2019.3.1
+        ProfileId: com.intellij.plugin.PowerShell
+        Arch:      X64
+    
+      Operating system details:
+    
+        Version: Microsoft Windows 10.0.17763 
+        Arch:    X64
+    
+      Build information:
+    
+        Version: <development-build>
+        Origin:  <development>
+        Date:    2018-12-08T00:37:16
+    
+
+2020-04-02 19:05:40.946 [VERBOSE] tid:15 in 'CreateServiceListener' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 482
+    Creating NamedPipeServerListener for $LanguageServer protocol with two pipes: In: 'PSES_t0ylqtq5.gc5'. Out: 'PSES_2xsq43bm.pob'
+
+2020-04-02 19:05:40.949 [NORMAL] tid:15 in 'StartLanguageService' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 202
+    Language service started, type = NamedPipe, endpoint = In pipe: PSES_t0ylqtq5.gc5 Out pipe: PSES_2xsq43bm.pob
+
+2020-04-02 19:05:40.953 [VERBOSE] tid:15 in 'CreateServiceListener' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 482
+    Creating NamedPipeServerListener for $DebugAdapter protocol with two pipes: In: 'PSES_bnizfw0r.vkt'. Out: 'PSES_xvkb3jpo.wvq'
+
+2020-04-02 19:05:40.953 [NORMAL] tid:15 in 'StartDebugService' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 279
+    Debug service started, type = NamedPipe, endpoint = In pipe: PSES_bnizfw0r.vkt Out pipe: PSES_xvkb3jpo.wvq
+
+2020-04-02 19:05:44.152 [NORMAL] tid:12 in 'Initialize' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 221
+    PowerShell runtime version: 5.1.17763.1007, edition: Desktop
+
+2020-04-02 19:05:44.218 [VERBOSE] tid:12 in 'SetExecutionPolicy' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 1618
+    Current execution policy: ExecutionPolicy.RemoteSigned
+
+2020-04-02 19:05:44.220 [VERBOSE] tid:12 in 'CheckForCapability' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\Capabilities\DscBreakpointCapability.cs: line 157
+    Side-by-side DSC module was not found.
+
+2020-04-02 19:05:44.221 [VERBOSE] tid:12 in 'SetProfileVariableInCurrentRunspace' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 1736
+    Setting $profile variable in runspace.  Current user host profile path: \\rocketlab.local\users\apc\j.swannack\Documents\WindowsPowerShell\com.intellij.plugin.PowerShell_profile.ps1
+
+2020-04-02 19:05:44.578 [VERBOSE] tid:12 in 'LogAvailablePssaFeatures' C:\PowerShellEditorServices\src\PowerShellEditorServices\Analysis\AnalysisService.cs: line 478
+    PSScriptAnalyzer successfully imported:
+        Version: 1.17.1
+        Exported Cmdlets:
+        Get-ScriptAnalyzerRule
+        Invoke-Formatter
+        Invoke-ScriptAnalyzer
+        Available Rules:
+            PSAlignAssignmentStatement
+            PSAvoidUsingCmdletAliases
+            PSAvoidAssignmentToAutomaticVariable
+            PSAvoidDefaultValueSwitchParameter
+            PSAvoidDefaultValueForMandatoryParameter
+            PSAvoidUsingEmptyCatchBlock
+            PSAvoidGlobalAliases
+            PSAvoidGlobalFunctions
+            PSAvoidGlobalVars
+            PSAvoidInvokingEmptyMembers
+            PSAvoidNullOrEmptyHelpMessageAttribute
+            PSAvoidUsingPositionalParameters
+            PSReservedCmdletChar
+            PSReservedParams
+            PSAvoidShouldContinueWithoutForce
+            PSAvoidTrailingWhitespace
+            PSAvoidUsingUserNameAndPassWordParams
+            PSAvoidUsingComputerNameHardcoded
+            PSAvoidUsingConvertToSecureStringWithPlainText
+            PSAvoidUsingDeprecatedManifestFields
+            PSAvoidUsingInvokeExpression
+            PSAvoidUsingPlainTextForPassword
+            PSAvoidUsingWMICmdlet
+            PSAvoidUsingWriteHost
+            PSMisleadingBacktick
+            PSMissingModuleManifestField
+            PSPlaceCloseBrace
+            PSPlaceOpenBrace
+            PSPossibleIncorrectComparisonWithNull
+            PSPossibleIncorrectUsageOfAssignmentOperator
+            PSPossibleIncorrectUsageOfRedirectionOperator
+            PSProvideCommentHelp
+            PSUseApprovedVerbs
+            PSUseBOMForUnicodeEncodedFile
+            PSUseCmdletCorrectly
+            PSUseCompatibleCmdlets
+            PSUseConsistentIndentation
+            PSUseConsistentWhitespace
+            PSUseDeclaredVarsMoreThanAssignments
+            PSUseLiteralInitializerForHashtable
+            PSUseOutputTypeCorrectly
+            PSUsePSCredentialType
+            PSShouldProcess
+            PSUseShouldProcessForStateChangingFunctions
+            PSUseSingularNouns
+            PSUseSupportsShouldProcess
+            PSUseToExportFieldsInManifest
+            PSUseUTF8EncodingForHelpFile
+            PSDSCDscExamplesPresent
+            PSDSCDscTestsPresent
+            PSDSCReturnCorrectTypesForDSCFunctions
+            PSDSCUseIdenticalMandatoryParametersForDSC
+            PSDSCUseIdenticalParametersForDSC
+            PSDSCStandardDSCFunctionsInResource
+            PSDSCUseVerboseMessageInDSCResource
+    
+
+2020-04-02 19:05:44.704 [VERBOSE] tid:12 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Event 'powerShell/executionStatusChanged'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "powerShell/executionStatusChanged",
+      "params": {
+        "executionOptions": {
+          "writeOutputToHost": false,
+          "writeErrorsToHost": false,
+          "addToHistory": false,
+          "interruptCommandPrompt": false
+        },
+        "executionStatus": 1,
+        "hadErrors": false
+      }
+    }
+
+2020-04-02 19:05:44.706 [VERBOSE] tid:12 in 'ExecuteCommand' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 492
+    Attempting to execute command(s):
+    
+        Import-Module C:\Users\j.swannack\.PyCharmCE2019.3\config\plugins\PowerShell\lib\LanguageHost\modules\PowerShellEditorServices\bin\Desktop\..\..\Commands\PowerShellEditorServices.Commands.psd1
+    
+
+2020-04-02 19:05:44.710 [VERBOSE] tid:14 in 'OnSessionStateChanged' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 1300
+    Session state changed --
+    
+        Old state: Ready
+        New state: Running
+        Result: NotFinished
+
+2020-04-02 19:05:45.034 [VERBOSE] tid:14 in 'OnSessionStateChanged' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 1300
+    Session state changed --
+    
+        Old state: Running
+        New state: Ready
+        Result: Completed
+
+2020-04-02 19:05:45.034 [VERBOSE] tid:14 in 'ExecuteCommand' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 571
+    Execution completed successfully.
+
+2020-04-02 19:05:45.034 [VERBOSE] tid:14 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Event 'powerShell/executionStatusChanged'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "powerShell/executionStatusChanged",
+      "params": {
+        "executionOptions": {
+          "writeOutputToHost": false,
+          "writeErrorsToHost": false,
+          "addToHistory": false,
+          "interruptCommandPrompt": false
+        },
+        "executionStatus": 4,
+        "hadErrors": false
+      }
+    }
+
+2020-04-02 19:05:45.071 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Request 'initialize' with id 1
+    
+    {
+      "jsonrpc": "2.0",
+      "id": "1",
+      "method": "initialize",
+      "params": {
+        "rootUri": "C:/Users/j.swannack/Source/UltronDataToolsLibrary",
+        "capabilities": {
+          "workspace": {
+            "applyEdit": true,
+            "workspaceEdit": {
+              "documentChanges": true
+            },
+            "didChangeConfiguration": {},
+            "didChangeWatchedFiles": {},
+            "symbol": {},
+            "executeCommand": {}
+          },
+          "textDocument": {
+            "synchronization": {
+              "willSave": true,
+              "willSaveWaitUntil": true,
+              "didSave": true
+            },
+            "completion": {
+              "completionItem": {
+                "snippetSupport": false
+              }
+            },
+            "hover": {},
+            "signatureHelp": {},
+            "references": {},
+            "documentHighlight": {},
+            "formatting": {},
+            "rangeFormatting": {},
+            "onTypeFormatting": {},
+            "definition": {},
+            "codeAction": {},
+            "rename": {}
+          }
+        }
+      }
+    }
+
+2020-04-02 19:05:45.126 [VERBOSE] tid:26 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Response 'initialize' with id 1
+    
+    {
+      "jsonrpc": "2.0",
+      "id": "1",
+      "result": {
+        "capabilities": {
+          "textDocumentSync": 2,
+          "hoverProvider": true,
+          "completionProvider": {
+            "resolveProvider": true,
+            "triggerCharacters": [
+              ".",
+              "-",
+              ":",
+              "\\"
+            ]
+          },
+          "signatureHelpProvider": {
+            "triggerCharacters": [
+              " "
+            ]
+          },
+          "definitionProvider": true,
+          "referencesProvider": true,
+          "documentHighlightProvider": true,
+          "documentSymbolProvider": true,
+          "workspaceSymbolProvider": true,
+          "codeActionProvider": true,
+          "codeLensProvider": {
+            "resolveProvider": true
+          },
+          "documentFormattingProvider": false,
+          "documentRangeFormattingProvider": false,
+          "documentOnTypeFormattingProvider": null,
+          "renameProvider": false,
+          "documentLinkProvider": null,
+          "executeCommandProvider": null,
+          "experimental": null,
+          "foldingRangeProvider": true
+        }
+      }
+    }
+
+2020-04-02 19:05:45.627 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Event 'textDocument/didOpen'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "textDocument/didOpen",
+      "params": {
+        "textDocument": {
+          "uri": "file:///C:/Users/j.swannack/Source/UltronDataToolsLibrary/configs/analyst_configs/config_f10/flight/run_configs.ps1",
+          "languageId": "PowerShell",
+          "version": -1,
+          "text": "ls .\\configs\\analyst_configs\\config_f10\\ -r config*.json | select FullName | % {python $script_runner_path $_}\n"
+        }
+      }
+    }
+
+2020-04-02 19:05:45.632 [VERBOSE] tid:26 in 'ResolveFilePath' C:\PowerShellEditorServices\src\PowerShellEditorServices\Workspace\Workspace.cs: line 471
+    Resolved path: C:\Users\j.swannack\Source\UltronDataToolsLibrary\configs\analyst_configs\config_f10\flight\run_configs.ps1
+
+2020-04-02 19:05:45.635 [VERBOSE] tid:26 in 'GetFileBuffer' C:\PowerShellEditorServices\src\PowerShellEditorServices\Workspace\Workspace.cs: line 203
+    Opened file as in-memory buffer: C:\Users\j.swannack\Source\UltronDataToolsLibrary\configs\analyst_configs\config_f10\flight\run_configs.ps1
+
+2020-04-02 19:05:45.636 [VERBOSE] tid:26 in 'HandleDidOpenTextDocumentNotification' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs: line 611
+    Finished opening document.
+
+2020-04-02 19:05:46.660 [VERBOSE] tid:13 in 'GetDiagnosticRecordsAsync' C:\PowerShellEditorServices\src\PowerShellEditorServices\Analysis\AnalysisService.cs: line 523
+    Found 3 violations
+
+2020-04-02 19:05:46.687 [VERBOSE] tid:13 in 'DelayThenInvokeDiagnostics' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs: line 1655
+    Script analysis of C:\Users\j.swannack\Source\UltronDataToolsLibrary\configs\analyst_configs\config_f10\flight\run_configs.ps1 completed. [296ms]
+
+2020-04-02 19:05:46.694 [VERBOSE] tid:26 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Event 'textDocument/publishDiagnostics'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "textDocument/publishDiagnostics",
+      "params": {
+        "uri": "file:///C:/Users/j.swannack/Source/UltronDataToolsLibrary/configs/analyst_configs/config_f10/flight/run_configs.ps1",
+        "diagnostics": [
+          {
+            "range": {
+              "start": {
+                "line": 0,
+                "character": 0
+              },
+              "end": {
+                "line": 0,
+                "character": 2
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'ls' is an alias of 'Get-ChildItem'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 0,
+                "character": 59
+              },
+              "end": {
+                "line": 0,
+                "character": 65
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'select' is an alias of 'Select-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 0,
+                "character": 77
+              },
+              "end": {
+                "line": 0,
+                "character": 78
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'%' is an alias of 'ForEach-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          }
+        ]
+      }
+    }
+
+2020-04-02 19:07:37.102 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Event 'textDocument/didClose'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "textDocument/didClose",
+      "params": {
+        "textDocument": {
+          "uri": "file:///C:/Users/j.swannack/Source/UltronDataToolsLibrary/configs/analyst_configs/config_f10/flight/run_configs.ps1"
+        }
+      }
+    }
+
+2020-04-02 19:07:37.104 [VERBOSE] tid:26 in 'ResolveFilePath' C:\PowerShellEditorServices\src\PowerShellEditorServices\Workspace\Workspace.cs: line 471
+    Resolved path: C:\Users\j.swannack\Source\UltronDataToolsLibrary\configs\analyst_configs\config_f10\flight\run_configs.ps1
+
+2020-04-02 19:07:37.127 [VERBOSE] tid:26 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Event 'textDocument/publishDiagnostics'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "textDocument/publishDiagnostics",
+      "params": {
+        "uri": "file:///C:/Users/j.swannack/Source/UltronDataToolsLibrary/configs/analyst_configs/config_f10/flight/run_configs.ps1",
+        "diagnostics": []
+      }
+    }
+
+2020-04-02 19:07:37.129 [VERBOSE] tid:26 in 'HandleDidCloseTextDocumentNotification' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs: line 629
+    Finished closing document.
+
+2020-04-02 19:16:29.593 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Request 'shutdown' with id 2
+    
+    {
+      "jsonrpc": "2.0",
+      "id": "2",
+      "method": "shutdown"
+    }
+
+2020-04-02 19:16:29.595 [VERBOSE] tid:26 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Response 'shutdown' with id 2
+    
+    {
+      "jsonrpc": "2.0",
+      "id": "2",
+      "result": {}
+    }
+
+2020-04-02 19:16:29.595 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Event 'exit'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "exit"
+    }
+

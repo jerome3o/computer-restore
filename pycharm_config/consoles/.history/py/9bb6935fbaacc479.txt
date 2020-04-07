@@ -1,0 +1,23 @@
+import pycrofarad
+-. . -..- - / . -. - .-. -.--
+import pycrofarad.megafarad
+-. . -..- - / . -. - .-. -.--
+pycrofarad.megafarad.get_megafarad_test_from_url("http://pluto:18080/Megafarad/v1/pluto/megafarad_lf1-lo" \
+                     "g1_electron_20200131/R5.5%20Flight%20L-0%20no-accels_2" \
+                     "0200130_14%3A59%3A14Z/channeldata?StartDate=2020-01-31" \
+                     "&StartTime=02:55:56.7550976&EndTime=00:00:00&ChannelLi" \
+                     "st=%2Felectron%2Fstage3%2FFCNODE%2FBeacon%2FBeaconMess" \
+                     "age.FCNode_Temperatures.Tc_Catalyst,%2Felectron%2Fstag" \
+                     "e3%2FTc_Catalyst")
+-. . -..- - / . -. - .-. -.--
+mft = _
+-. . -..- - / . -. - .-. -.--
+import pycrofarad.tempo
+-. . -..- - / . -. - .-. -.--
+ch = pycrofarad.tempo.get_channels_from_group("Analysis - Thermal")
+-. . -..- - / . -. - .-. -.--
+ch
+-. . -..- - / . -. - .-. -.--
+mft.Query(ch)
+-. . -..- - / . -. - .-. -.--
+from pathlib import Path

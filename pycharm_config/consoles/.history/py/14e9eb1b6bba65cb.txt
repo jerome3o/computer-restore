@@ -1,0 +1,125 @@
+flight
+-. . -..- - / . -. - .-. -.--
+url = 'http://pluto:18080/Megafarad/v1/pluto/megafarad_lf1-log1_electron_20191017/R5.3%20Launch_20191016_14%3A59%3A43Z/channeldata?StartDate=2019-10-17&StartTime=01:20:32.8007040&EndTime=01:31:55.4724352&'
+-. . -..- - / . -. - .-. -.--
+import urllib.parse as parse
+-. . -..- - / . -. - .-. -.--
+parse.parse_qs("ChannelData=a,b,c")
+-. . -..- - / . -. - .-. -.--
+parse.parse_qs("ChannelData=a&b,c")
+-. . -..- - / . -. - .-. -.--
+parse.parse_qs("ChannelData=a&ChannelData=c")
+-. . -..- - / . -. - .-. -.--
+parse.parse_qs("ChannelData=a&ChannelData=")
+-. . -..- - / . -. - .-. -.--
+parse.parse_qs("ChannelData=")
+-. . -..- - / . -. - .-. -.--
+parse.parse_qs("ChannelData=&a=5")
+-. . -..- - / . -. - .-. -.--
+from collections import defaultdict
+-. . -..- - / . -. - .-. -.--
+a = {'a': 4}
+-. . -..- - / . -. - .-. -.--
+b = defaultdict(lambda: None, a)
+-. . -..- - / . -. - .-. -.--
+b
+-. . -..- - / . -. - .-. -.--
+channels_to_get, date, start_time, end_time, resample_frequency, data_format
+-. . -..- - / . -. - .-. -.--
+args = channels_to_get, date, start_time, end_time, resample_frequency, data_format
+-. . -..- - / . -. - .-. -.--
+mfargs = server, databaseName=database, testName=test_name
+-. . -..- - / . -. - .-. -.--
+mfargs = server, database, test_name
+-. . -..- - / . -. - .-. -.--
+import json
+-. . -..- - / . -. - .-. -.--
+s = json.dumps({"args":args, "mfargs":mfargs}, indent=4)
+-. . -..- - / . -. - .-. -.--
+s
+-. . -..- - / . -. - .-. -.--
+with open("mf_test_case.json", 'w') as f: f.write(s)
+
+-. . -..- - / . -. - .-. -.--
+import os
+-. . -..- - / . -. - .-. -.--
+os.getcwd()
+-. . -..- - / . -. - .-. -.--
+
+testing_dir = Path(r".\test_data\test_dir")
+testing_ansys_output_dir = Path(testing_dir/"ansys_output")
+testing_clean_output_dir = Path(testing_dir/"clean_output_dir")
+-. . -..- - / . -. - .-. -.--
+testing_ansys_output_dir.rglob("*/output")
+-. . -..- - / . -. - .-. -.--
+list(testing_ansys_output_dir.rglob("*/output"))
+-. . -..- - / . -. - .-. -.--
+list(testing_ansys_output_dir.rglob("*/output*"))
+-. . -..- - / . -. - .-. -.--
+list(testing_ansys_output_dir.rglob("*/output/*"))
+-. . -..- - / . -. - .-. -.--
+list(testing_ansys_output_dir.rglob("*/output/*.dat"))
+-. . -..- - / . -. - .-. -.--
+list(testing_ansys_output_dir.rglob("*"))
+-. . -..- - / . -. - .-. -.--
+spec = "{a},{b}".format(a=6, b=2)
+-. . -..- - / . -. - .-. -.--
+spec
+-. . -..- - / . -. - .-. -.--
+import xlsxwriter
+-. . -..- - / . -. - .-. -.--
+book = xlsxwriter.Workbook(r".\analysislibrary\Scripts\ProcessAutomation\test_data\ansys_example_files\test_s2_excel_output.xlsx")
+-. . -..- - / . -. - .-. -.--
+book
+-. . -..- - / . -. - .-. -.--
+book.worksheets()
+-. . -..- - / . -. - .-. -.--
+ws = book.add_worksheet("test")
+-. . -..- - / . -. - .-. -.--
+book.close()
+-. . -..- - / . -. - .-. -.--
+xl.Application.Save()
+-. . -..- - / . -. - .-. -.--
+xl.Application
+-. . -..- - / . -. - .-. -.--
+wb.Visible = True
+-. . -..- - / . -. - .-. -.--
+wb.Run("ApplyConditionalFormatting")
+-. . -..- - / . -. - .-. -.--
+xl.Quit()
+-. . -..- - / . -. - .-. -.--
+xl.__dict__()
+-. . -..- - / . -. - .-. -.--
+xl.__dict__
+-. . -..- - / . -. - .-. -.--
+xl.Application.Quit()
+-. . -..- - / . -. - .-. -.--
+p = Path(r".\test_data\fake_file.txt")
+-. . -..- - / . -. - .-. -.--
+p.stem += "_temp"
+-. . -..- - / . -. - .-. -.--
+from analysislibrary.Scripts.ProcessAutomation.AnsysFileManagement import clear_test_directory, setup_test_directory
+-. . -..- - / . -. - .-. -.--
+clear_test_directory()
+-. . -..- - / . -. - .-. -.--
+dict(output)
+-. . -..- - / . -. - .-. -.--
+a = {"a": 1, "b": 2, "c": 3}
+-. . -..- - / . -. - .-. -.--
+output = filter(lambda x: a[x] > 1, a)
+-. . -..- - / . -. - .-. -.--
+list(output)
+-. . -..- - / . -. - .-. -.--
+from analysislibrary.Tools.DataTools.LoadingTools import read_mat
+-. . -..- - / . -. - .-. -.--
+dfs = read_mat(r'T:\APC\Analysis\Mission\Pre Flight Data Analysis\R5.4\Vibration\20191125-R5.4-full\f10_full_imua_z.mat')
+-. . -..- - / . -. - .-. -.--
+dfs
+-. . -..- - / . -. - .-. -.--
+p = Path(r"T:\APC\Analysis\Mission\Pre Flight Data Analysis\R5.4\Vibration\20191125-R5.4-full")
+-. . -..- - / . -. - .-. -.--
+from pathlib import Path
+-. . -..- - / . -. - .-. -.--
+python -m jupyter --help
+-. . -..- - / . -. - .-. -.--
+python -m jupyter -h

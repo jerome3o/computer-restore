@@ -1,0 +1,709 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1140">
+                <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stack</find>
+      <find>convert_df</find>
+      <find>convert</find>
+      <find>plot</find>
+      <find>STRAIN_GAUGE_BENDING_MODE_PREDICTION</find>
+      <find>flight</find>
+      <find>_get</find>
+      <find>get_dat</find>
+      <find>tempo</find>
+      <find>Display</find>
+      <find>AccelerometerD</find>
+      <find>display</find>
+      <find>push</find>
+      <find>figsize</find>
+      <find>TODO</find>
+      <find>test</find>
+      <find>QueryM</find>
+      <find>_get_channel_</find>
+      <find>rocketDict.rock</find>
+      <find>analysislibrary.Tools.rocketDict.rocketDict</find>
+      <find>MegaFaradApiTools</find>
+      <find>i</find>
+      <find>from_ma</find>
+      <find>datafile[t]</find>
+      <find>has been ignored for</find>
+      <find>print</find>
+      <find>l</find>
+      <find>&quot;</find>
+      <find>datetime</find>
+      <find>S1KHD</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>telemetry_state_df</replace>
+      <replace>Union</replace>
+      <replace>'</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\j.swannack\Source\analysislibrary\analysislibrary\DataAnalysis\PostOperationReport</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/Vibration/PayloadRandomVibration/DataFetching.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/Thermal/FlightThermalOverview/ThermalOverviewDataAccess.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/test_data/ansys_example_files/R1-VE-001_CW_BM_09b.sh" />
+        <option value="$PROJECT_DIR$/analysislibrary/scripts/build_package.sh" />
+        <option value="$PROJECT_DIR$/MANIFEST.in" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/PostOperationReport/overviewSection.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/Propellant/analyseRLSMFR.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/Pressure/ValveMFR.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/Propellant/stage1ShutdownResiduals.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/Pressure/RCSN2Usage.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/scratch/loading_data.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tests/runUnitTests.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tests/UnitTests/ModelsTests/PropellantTests/PressSystemTests/pipeflowtests.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tests/UnitTests/ToolsTests/DataToolsTests/LoadingToolsTests.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tests/IntegrationTests/ToolsTests/DataToolsTests/LoadingToolsTests.py" />
+        <option value="$PROJECT_DIR$/../pycrofarad/pycrofarad/megafarad.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeExcelGeneration.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/scratch/openpyxl/conditional_formatting.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/AnsysFileManagement.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/test_data/ansys_example_files/F12BendingCSVreadwrite.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tools/DataTools/LoadingTools.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/PostOperationReport/generateReport.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/PostOperationReport/asyncPlotter.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/ExcelGeneration.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tools/ConfigTools.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/Config.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/Automation.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/ApplyConditionalFormatting.vba" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tools/DirectoryTools.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/Config.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tools/LoggingTools.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tests/UnitTests/Scripts/ProcessAutomation/BendingModeAutomation/AnsysFileManagementTests.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/ExcelGeneration.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tests/UnitTests/ScriptsTests/ProcessAutomationTests/BendingModeAutomationTests/AnsysFileManagementTests.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/AnsysFileManagement.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/__main__.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/__init__.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/Automation.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/__init__.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/Vibration/PayloadRandomVibration/__init__.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/Vibration/PayloadRandomVibration/Plotting.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/README.md" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/wip_sway.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/wip_sway.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/Config.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/__init__.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/README.md" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/SwayTestAnalysis.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/__init__.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/analysislibrary/Tools/MiscTools.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="2208" y="-298" width="1080" height="1040" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="analysislibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="analysislibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analysislibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="analysislibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="analysislibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="analysislibrary" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\j.swannack\Source\analysislibrary" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="analysislibrary" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\j.swannack\Source\analysislibrary" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="analysislibrary" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="analysislibrary" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\j.swannack\Source\analysislibrary" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="analysislibrary" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DataAnalysis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="C:\Users\j.swannack\Source\analysislibrary\" commandHistoryFileName="history-52" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_AnsysFileManagementTests_py - 2020.04.07 at 09h 54m 34s.xml">
+      <configuration name="Unittests in AnsysFileManagementTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 09h 56m 43s.xml">
+      <configuration name="Unittests for AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 09h 59m 27s.xml">
+      <configuration name="Unittests for AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 11h 09m 06s.xml">
+      <configuration name="Unittests for AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 11h 11m 22s.xml">
+      <configuration name="Unittests for AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 11h 13m 17s.xml">
+      <configuration name="Unittests for AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 11h 13m 29s.xml">
+      <configuration name="Unittests for AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 11h 13m 59s.xml">
+      <configuration name="Unittests for AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 11h 14m 30s.xml">
+      <configuration name="Unittests for AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_analysislibrary_Tests_UnitTests_ScriptsTests_ProcessAutomationTests_BendingModeAutomationTests_AnsysFileManagementTests_TestAnsysFileManagement_test_generate_excel_from_ansys_output - 2020.04.07 at 11h 34m 36s.xml">
+      <configuration name="Unittests for analysislibrary.Tests.UnitTests.ScriptsTests.ProcessAutomationTests.BendingModeAutomationTests.AnsysFileManagementTests.TestAnsysFileManagement.test_generate_excel_from_ansys_output" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-286" width="1096" height="1896" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8985411" weight="0.52219075" />
+      <window_info id="Structure" order="1" sideWeight="0.099438205" side_tool="true" weight="0.2049103" />
+      <window_info id="Favorites" order="2" sideWeight="0.101458885" side_tool="true" weight="0.2719547" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986835" weight="0.17303371" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8093734" weight="0.2977528" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.81397545" weight="0.4516854" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4997367" weight="0.1264045" />
+      <window_info anchor="bottom" id="Services" order="7" sideWeight="0.4997367" weight="0.38510638" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4997367" weight="0.4241573" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.18602455" side_tool="true" weight="0.1983146" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4997367" weight="0.32978722" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.5776725" weight="0.47234043" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.56292784" visible="true" weight="0.10898876" />
+      <window_info anchor="bottom" id="Python Console" internal_type="SLIDING" order="13" sideWeight="0.7909426" type="SLIDING" weight="0.6361702" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>dfs = mft.QueryMulti(channels, batch_channel_size=channels_per_query,
+                     n_threads=1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>channel_pattern_list = (
+    &quot;PAY_Cntr_Btm_Rad&quot;,
+    &quot;PAY_Cntr_Btm_Tan&quot;,
+    &quot;PAY_Cntr_Btm_Ax&quot;,
+)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>mode_list['Freq_HZ'][mode_list.index.isin(self.index)]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mode_list['Freq_HZ'][mode_list['Freq_HZ'].index.isin(self.index)]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mode_list['Freq_HZ'].index.isin(self.index)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mode_list['Freq_HZ'].index in self.index</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mode_list['Freq_HZ'].index.dropna()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mode_list['Freq_HZ'].index.notna()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mode_list['Freq_HZ'].index</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mode_list['Freq_HZ']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.index</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tests/UnitTests/ScriptsTests/ProcessAutomationTests/BendingModeAutomationTests/test_data/ansys_example_files/cleaned_output/20200312-F12-QueryPoints/R1-S1-0F-x-v13_querypoints_PL.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tools/DirectoryTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tests/UnitTests/ScriptsTests/ProcessAutomationTests/BendingModeAutomationTests/AnsysFileManagementTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="124" column="56" lean-forward="true" selection-start-line="124" selection-start-column="56" selection-end-line="124" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tools/LoggingTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="6" selection-start-line="1" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/AnsysFileManagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/ExcelGeneration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+          <folding>
+            <element signature="e#143#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/Vibration/PayloadRandomVibration/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/Vibration/PayloadRandomVibration/Plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#713#2746#0" />
+            <element signature="e#713#1250#1" />
+            <element signature="e#1713#2321#0" />
+            <element signature="e#2088#2321#0" />
+            <element signature="e#2857#3109#0" />
+            <element signature="e#2876#3011#0" />
+            <element signature="e#3023#3109#0" />
+            <element signature="e#3177#3405#0" />
+            <element signature="e#3195#3307#0" />
+            <element signature="e#3319#3405#0" />
+            <element signature="e#3443#3719#0" />
+            <element signature="e#3443#3597#1" />
+            <element signature="e#3763#3876#0" />
+            <element signature="e#3789#3838#0" />
+            <element signature="e#3946#4832#0" />
+            <element signature="e#4102#4234#0" />
+            <element signature="e#4909#4971#0" />
+            <element signature="e#5035#5926#0" />
+            <element signature="e#5035#5106#0" />
+            <element signature="e#5297#5382#0" />
+            <element signature="e#5455#5501#0" />
+            <element signature="e#5528#5644#0" />
+            <element signature="e#6145#7759#0" />
+            <element signature="e#6145#6541#1" />
+            <element signature="e#7420#7524#0" />
+            <element signature="e#7874#8563#0" />
+            <element signature="e#7874#8094#1" />
+            <element signature="e#8602#8912#0" />
+            <element signature="e#8946#9061#0" />
+            <element signature="e#9092#9405#0" />
+            <element signature="e#9425#9992#0" />
+            <element signature="e#9733#9765#0" />
+            <element signature="e#10026#10134#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/check.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/plotelectron_GncSystems_LN200_yDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/plotelectron_GncSystems_LN200_zDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/plotelectron_GncSystems_LN200_xDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/scratch/cli_testing/Payload RV - HC_PAY_Cntr_Btm_Ax - 20.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/plot electron_GncSystems_LN200_zDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/plot electron_GncSystems_LN200_xDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/plot electron_GncSystems_LN200_yDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/PSD plot electron_GncSystems_LN200_zDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/PSD plot electron_GncSystems_LN200_yDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/PSD plot electron_GncSystems_LN200_xDeltaAngle.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/PSD plot S1_1p0 Empty.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/PSD plot S1_1p0 LOhd.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/test_output/check.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/example_psd.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/example_time_series.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#40#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="1653" selection-start-line="1653" selection-end-line="1653" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tools/StructuralTools/PSDTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="107" column="4" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="680">
+            <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tests/IntegrationTests/ToolsTests/DataToolsTests/mf_test_case.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tools/ConfigTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tools/DataTools/LoadingTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/PostOperationReport/generateReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="68" column="75" selection-start-line="68" selection-start-column="75" selection-end-line="68" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/Automation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="80" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/SwayTestAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="165" column="6" selection-start-line="165" selection-start-column="6" selection-end-line="165" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/20191124_F10_SwayTest_Validation-empty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#503#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tests/IntegrationTests/ToolsTests/DataToolsTests/LoadingToolsTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/20191125_F10_SwayTest_Validation-s1s2k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/PAA_BM_plot_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/DataAnalysis/SwayTesting/swaytest_scripts/PAA_BM_load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="206" column="14" lean-forward="true" selection-start-line="206" selection-start-column="14" selection-end-line="206" selection-end-column="14" />
+          <folding>
+            <element signature="e#24#87#1" />
+            <element signature="e#89#501#1" />
+            <element signature="e#753#873#0" />
+            <element signature="e#1097#1619#0" />
+            <element signature="e#1664#2842#0" />
+            <element signature="e#1664#1731#1" />
+            <element signature="e#2052#2132#0" />
+            <element signature="e#2261#2368#0" />
+            <element signature="e#2282#2368#0" />
+            <element signature="e#2458#2565#0" />
+            <element signature="e#2479#2565#0" />
+            <element signature="e#2655#2763#0" />
+            <element signature="e#2676#2763#0" />
+            <element signature="e#2983#6250#0" />
+            <element signature="e#2983#3044#1" />
+            <element signature="e#3113#3148#0" />
+            <element signature="e#3344#3677#0" />
+            <element signature="e#3742#4896#0" />
+            <element signature="e#3763#4055#0" />
+            <element signature="e#3784#4055#0" />
+            <element signature="e#4152#4444#0" />
+            <element signature="e#4173#4444#0" />
+            <element signature="e#4541#4833#0" />
+            <element signature="e#4562#4833#0" />
+            <element signature="e#4965#6146#0" />
+            <element signature="e#4986#5287#0" />
+            <element signature="e#5007#5287#0" />
+            <element signature="e#5384#5685#0" />
+            <element signature="e#5405#5685#0" />
+            <element signature="e#5782#6083#0" />
+            <element signature="e#5803#6083#0" />
+            <element signature="e#6347#8668#0" />
+            <element signature="e#6347#6414#1" />
+            <element signature="e#6505#6585#0" />
+            <element signature="e#6671#6996#0" />
+            <element signature="e#7039#7492#0" />
+            <element signature="e#7060#7375#0" />
+            <element signature="e#7586#8043#0" />
+            <element signature="e#7607#7922#0" />
+            <element signature="e#8124#8581#0" />
+            <element signature="e#8145#8460#0" />
+            <element signature="e#8715#9337#0" />
+            <element signature="e#8761#9313#0" />
+            <element signature="e#9391#9619#0" />
+            <element signature="e#9437#9595#0" />
+            <element signature="e#9666#9906#0" />
+            <element signature="e#9712#9882#0" />
+            <element signature="e#10022#10568#0" />
+            <element signature="e#10068#10540#0" />
+            <element signature="e#10952#12974#0" />
+            <element signature="e#11011#12950#0" />
+            <element signature="e#11481#12621#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Tools/MiscTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysislibrary/Scripts/ProcessAutomation/BendingModeAutomation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1140">
+            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

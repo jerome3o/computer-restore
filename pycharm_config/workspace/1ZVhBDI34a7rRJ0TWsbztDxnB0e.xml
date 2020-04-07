@@ -1,0 +1,214 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>typing.Any</find>
+      <find>get_sensor: c</find>
+      <find>Sized</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rocketDict/pddict.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rocketDict" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rocketDict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rocketDict" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rocketDict" type="462c0819:PsiDirectoryNode" />
+              <item name="rocketDict" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-3" />
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20010532" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24960506" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.24960506" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.15851064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07765958" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4680851" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.17021276" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" weight="0.32978722" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.17978723" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3287234" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.38723403" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketDict/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketDict/version.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketDict/pddict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4420">
+          <caret line="458" column="38" lean-forward="true" selection-start-line="458" selection-start-column="38" selection-end-line="458" selection-end-column="38" />
+          <folding>
+            <element signature="e#510#594#0" />
+            <element signature="e#631#719#0" />
+            <element signature="e#776#916#0" />
+            <element signature="e#959#1153#0" />
+            <element signature="e#1028#1100#0" />
+            <element signature="e#1220#1326#0" />
+            <element signature="e#1351#1468#0" />
+            <element signature="e#1390#1448#0" />
+            <element signature="e#1505#1729#0" />
+            <element signature="e#1873#2021#0" />
+            <element signature="e#2162#3063#0" />
+            <element signature="e#2420#2466#0" />
+            <element signature="e#2530#2679#0" />
+            <element signature="e#2598#2649#0" />
+            <element signature="e#2728#2754#0" />
+            <element signature="e#2802#2832#0" />
+            <element signature="e#2881#3063#0" />
+            <element signature="e#2949#3033#0" />
+            <element signature="e#3091#3545#0" />
+            <element signature="e#3130#3148#0" />
+            <element signature="e#3199#3282#0" />
+            <element signature="e#3332#3545#0" />
+            <element signature="e#3381#3455#0" />
+            <element signature="e#3690#3732#0" />
+            <element signature="e#3781#3952#0" />
+            <element signature="e#3820#3838#0" />
+            <element signature="e#3889#3952#0" />
+            <element signature="e#4017#4041#0" />
+            <element signature="e#4304#4460#0" />
+            <element signature="e#4776#4827#0" />
+            <element signature="e#4929#4983#0" />
+            <element signature="e#5164#5244#0" />
+            <element signature="e#5330#5385#0" />
+            <element signature="e#5468#5530#0" />
+            <element signature="e#5628#5693#0" />
+            <element signature="e#5733#5790#0" />
+            <element signature="e#5822#5871#0" />
+            <element signature="e#5903#5952#0" />
+            <element signature="e#5985#6035#0" />
+            <element signature="e#6068#6118#0" />
+            <element signature="e#6153#6205#0" />
+            <element signature="e#6240#6280#0" />
+            <element signature="e#6508#6573#0" />
+            <element signature="e#6845#6922#0" />
+            <element signature="e#6958#6987#0" />
+            <element signature="e#7045#7086#0" />
+            <element signature="e#7128#7154#0" />
+            <element signature="e#7228#7303#0" />
+            <element signature="e#7402#7814#0" />
+            <element signature="e#7489#7623#0" />
+            <element signature="e#7495#7623#0" />
+            <element signature="e#8045#8638#0" />
+            <element signature="e#8045#8381#1" />
+            <element signature="e#8724#8863#0" />
+            <element signature="e#8936#9063#0" />
+            <element signature="e#9108#9149#0" />
+            <element signature="e#9201#9247#0" />
+            <element signature="e#9299#9345#0" />
+            <element signature="e#9396#9441#0" />
+            <element signature="e#9492#9537#0" />
+            <element signature="e#9588#9633#0" />
+            <element signature="e#9684#9729#0" />
+            <element signature="e#9780#9825#0" />
+            <element signature="e#9877#9923#0" />
+            <element signature="e#9978#10027#0" />
+            <element signature="e#10071#10111#0" />
+            <element signature="e#10156#10197#0" />
+            <element signature="e#10242#10283#0" />
+            <element signature="e#10335#10381#0" />
+            <element signature="e#10434#10481#0" />
+            <element signature="e#10534#10581#0" />
+            <element signature="e#10634#10681#0" />
+            <element signature="e#10734#10781#0" />
+            <element signature="e#10833#10879#0" />
+            <element signature="e#10943#10984#0" />
+            <element signature="e#11082#11325#0" />
+            <element signature="e#11521#11897#0" />
+            <element signature="e#11687#11856#0" />
+            <element signature="e#11731#11856#0" />
+            <element signature="e#11949#12001#0" />
+            <element signature="e#12073#12156#0" />
+            <element signature="e#12236#12730#0" />
+            <element signature="e#12532#12661#0" />
+            <element signature="e#12818#13260#0" />
+            <element signature="e#12894#12996#0" />
+            <element signature="e#13347#13471#0" />
+            <element signature="e#13543#13655#0" />
+            <element signature="e#13725#13814#0" />
+            <element signature="e#13865#14146#0" />
+            <element signature="e#13919#14120#0" />
+            <element signature="e#14232#14627#0" />
+            <element signature="e#14688#14933#0" />
+            <element signature="e#14991#15124#0" />
+            <element signature="e#15183#15492#0" />
+            <element signature="e#15583#15749#0" />
+            <element signature="e#15796#15839#0" />
+            <element signature="e#15939#16006#0" />
+            <element signature="e#16076#16107#0" />
+            <element signature="e#16295#16338#0" />
+            <element signature="e#16402#16613#0" />
+            <element signature="e#16728#17212#0" />
+            <element signature="e#17033#17095#0" />
+            <element signature="e#17305#17514#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

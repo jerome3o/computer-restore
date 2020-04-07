@@ -1,0 +1,59 @@
+2020-04-07 13:34:42.986 [NORMAL] tid:15 in 'StartLogging' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 183
+    
+    PowerShell Editor Services Host v1.10.1.0 starting (PID 19776
+    
+      Host application details:
+    
+        Name:      PyCharm
+        Version:   2019.3.1
+        ProfileId: com.intellij.plugin.PowerShell
+        Arch:      X64
+    
+      Operating system details:
+    
+        Version: Microsoft Windows 10.0.17763 
+        Arch:    X64
+    
+      Build information:
+    
+        Version: <development-build>
+        Origin:  <development>
+        Date:    2018-12-08T00:37:16
+    
+
+2020-04-07 13:34:43.009 [NORMAL] tid:15 in 'StartLanguageService' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 202
+    Language service started, type = NamedPipe, endpoint = In pipe: PSES_hgjdfcld.ers Out pipe: PSES_dgyxmd0y.iji
+
+2020-04-07 13:34:43.013 [NORMAL] tid:15 in 'StartDebugService' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 279
+    Debug service started, type = NamedPipe, endpoint = In pipe: PSES_dkgbqcyc.nuu Out pipe: PSES_sai0y2wc.qpt
+
+2020-04-07 13:34:46.380 [NORMAL] tid:3 in 'Initialize' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 221
+    PowerShell runtime version: 5.1.17763.1007, edition: Desktop
+
+2020-04-07 13:36:42.770 [ERROR] tid:23 in 'ExecuteCommand' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 565
+    Execution of the following command(s) completed with errors:
+    
+        gm
+        Out-Default
+    
+    
+
+2020-04-07 13:37:20.302 [ERROR] tid:31 in 'ExecuteCommand' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 565
+    Execution of the following command(s) completed with errors:
+    
+        gm $profile
+        Out-Default
+    
+    
+
+2020-04-07 13:37:30.508 [ERROR] tid:31 in 'ExecuteCommand' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 565
+    Execution of the following command(s) completed with errors:
+    
+        gm $profile
+        Out-Default
+    
+    
+
+2020-04-07 13:38:54.287 [NORMAL] tid:26 in 'Stop' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs: line 174
+    Language service is shutting down...
+

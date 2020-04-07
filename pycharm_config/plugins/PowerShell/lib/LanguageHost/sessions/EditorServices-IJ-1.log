@@ -1,0 +1,659 @@
+2020-04-02 16:31:35.281 [NORMAL] tid:15 in 'StartLogging' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 183
+    
+    PowerShell Editor Services Host v1.10.1.0 starting (PID 10328
+    
+      Host application details:
+    
+        Name:      PyCharm
+        Version:   2019.3.1
+        ProfileId: com.intellij.plugin.PowerShell
+        Arch:      X64
+    
+      Operating system details:
+    
+        Version: Microsoft Windows 10.0.17763 
+        Arch:    X64
+    
+      Build information:
+    
+        Version: <development-build>
+        Origin:  <development>
+        Date:    2018-12-08T00:37:16
+    
+
+2020-04-02 16:31:35.299 [VERBOSE] tid:15 in 'CreateServiceListener' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 482
+    Creating NamedPipeServerListener for $LanguageServer protocol with two pipes: In: 'PSES_ios1rmcu.2bk'. Out: 'PSES_yhfezzx4.e5x'
+
+2020-04-02 16:31:35.305 [NORMAL] tid:15 in 'StartLanguageService' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 202
+    Language service started, type = NamedPipe, endpoint = In pipe: PSES_ios1rmcu.2bk Out pipe: PSES_yhfezzx4.e5x
+
+2020-04-02 16:31:35.309 [VERBOSE] tid:15 in 'CreateServiceListener' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 482
+    Creating NamedPipeServerListener for $DebugAdapter protocol with two pipes: In: 'PSES_53ymthrq.ner'. Out: 'PSES_zllhvabs.ydk'
+
+2020-04-02 16:31:35.309 [NORMAL] tid:15 in 'StartDebugService' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 279
+    Debug service started, type = NamedPipe, endpoint = In pipe: PSES_53ymthrq.ner Out pipe: PSES_zllhvabs.ydk
+
+2020-04-02 16:31:38.611 [NORMAL] tid:11 in 'Initialize' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 221
+    PowerShell runtime version: 5.1.17763.1007, edition: Desktop
+
+2020-04-02 16:31:38.684 [VERBOSE] tid:11 in 'SetExecutionPolicy' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 1618
+    Current execution policy: ExecutionPolicy.RemoteSigned
+
+2020-04-02 16:31:38.687 [VERBOSE] tid:11 in 'CheckForCapability' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\Capabilities\DscBreakpointCapability.cs: line 157
+    Side-by-side DSC module was not found.
+
+2020-04-02 16:31:38.688 [VERBOSE] tid:11 in 'SetProfileVariableInCurrentRunspace' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 1736
+    Setting $profile variable in runspace.  Current user host profile path: \\rocketlab.local\users\apc\j.swannack\Documents\WindowsPowerShell\com.intellij.plugin.PowerShell_profile.ps1
+
+2020-04-02 16:31:39.106 [VERBOSE] tid:11 in 'LogAvailablePssaFeatures' C:\PowerShellEditorServices\src\PowerShellEditorServices\Analysis\AnalysisService.cs: line 478
+    PSScriptAnalyzer successfully imported:
+        Version: 1.17.1
+        Exported Cmdlets:
+        Get-ScriptAnalyzerRule
+        Invoke-Formatter
+        Invoke-ScriptAnalyzer
+        Available Rules:
+            PSAlignAssignmentStatement
+            PSAvoidUsingCmdletAliases
+            PSAvoidAssignmentToAutomaticVariable
+            PSAvoidDefaultValueSwitchParameter
+            PSAvoidDefaultValueForMandatoryParameter
+            PSAvoidUsingEmptyCatchBlock
+            PSAvoidGlobalAliases
+            PSAvoidGlobalFunctions
+            PSAvoidGlobalVars
+            PSAvoidInvokingEmptyMembers
+            PSAvoidNullOrEmptyHelpMessageAttribute
+            PSAvoidUsingPositionalParameters
+            PSReservedCmdletChar
+            PSReservedParams
+            PSAvoidShouldContinueWithoutForce
+            PSAvoidTrailingWhitespace
+            PSAvoidUsingUserNameAndPassWordParams
+            PSAvoidUsingComputerNameHardcoded
+            PSAvoidUsingConvertToSecureStringWithPlainText
+            PSAvoidUsingDeprecatedManifestFields
+            PSAvoidUsingInvokeExpression
+            PSAvoidUsingPlainTextForPassword
+            PSAvoidUsingWMICmdlet
+            PSAvoidUsingWriteHost
+            PSMisleadingBacktick
+            PSMissingModuleManifestField
+            PSPlaceCloseBrace
+            PSPlaceOpenBrace
+            PSPossibleIncorrectComparisonWithNull
+            PSPossibleIncorrectUsageOfAssignmentOperator
+            PSPossibleIncorrectUsageOfRedirectionOperator
+            PSProvideCommentHelp
+            PSUseApprovedVerbs
+            PSUseBOMForUnicodeEncodedFile
+            PSUseCmdletCorrectly
+            PSUseCompatibleCmdlets
+            PSUseConsistentIndentation
+            PSUseConsistentWhitespace
+            PSUseDeclaredVarsMoreThanAssignments
+            PSUseLiteralInitializerForHashtable
+            PSUseOutputTypeCorrectly
+            PSUsePSCredentialType
+            PSShouldProcess
+            PSUseShouldProcessForStateChangingFunctions
+            PSUseSingularNouns
+            PSUseSupportsShouldProcess
+            PSUseToExportFieldsInManifest
+            PSUseUTF8EncodingForHelpFile
+            PSDSCDscExamplesPresent
+            PSDSCDscTestsPresent
+            PSDSCReturnCorrectTypesForDSCFunctions
+            PSDSCUseIdenticalMandatoryParametersForDSC
+            PSDSCUseIdenticalParametersForDSC
+            PSDSCStandardDSCFunctionsInResource
+            PSDSCUseVerboseMessageInDSCResource
+    
+
+2020-04-02 16:31:39.237 [VERBOSE] tid:11 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Event 'powerShell/executionStatusChanged'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "powerShell/executionStatusChanged",
+      "params": {
+        "executionOptions": {
+          "writeOutputToHost": false,
+          "writeErrorsToHost": false,
+          "addToHistory": false,
+          "interruptCommandPrompt": false
+        },
+        "executionStatus": 1,
+        "hadErrors": false
+      }
+    }
+
+2020-04-02 16:31:39.240 [VERBOSE] tid:11 in 'ExecuteCommand' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 492
+    Attempting to execute command(s):
+    
+        Import-Module C:\Users\j.swannack\.PyCharmCE2019.3\config\plugins\PowerShell\lib\LanguageHost\modules\PowerShellEditorServices\bin\Desktop\..\..\Commands\PowerShellEditorServices.Commands.psd1
+    
+
+2020-04-02 16:31:39.244 [VERBOSE] tid:6 in 'OnSessionStateChanged' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 1300
+    Session state changed --
+    
+        Old state: Ready
+        New state: Running
+        Result: NotFinished
+
+2020-04-02 16:31:39.576 [VERBOSE] tid:6 in 'OnSessionStateChanged' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 1300
+    Session state changed --
+    
+        Old state: Running
+        New state: Ready
+        Result: Completed
+
+2020-04-02 16:31:39.576 [VERBOSE] tid:6 in 'ExecuteCommand' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 571
+    Execution completed successfully.
+
+2020-04-02 16:31:39.576 [VERBOSE] tid:6 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Event 'powerShell/executionStatusChanged'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "powerShell/executionStatusChanged",
+      "params": {
+        "executionOptions": {
+          "writeOutputToHost": false,
+          "writeErrorsToHost": false,
+          "addToHistory": false,
+          "interruptCommandPrompt": false
+        },
+        "executionStatus": 4,
+        "hadErrors": false
+      }
+    }
+
+2020-04-02 16:31:39.614 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Request 'initialize' with id 1
+    
+    {
+      "jsonrpc": "2.0",
+      "id": "1",
+      "method": "initialize",
+      "params": {
+        "rootUri": "C:/Users/j.swannack/Source/analysislibrary",
+        "capabilities": {
+          "workspace": {
+            "applyEdit": true,
+            "workspaceEdit": {
+              "documentChanges": true
+            },
+            "didChangeConfiguration": {},
+            "didChangeWatchedFiles": {},
+            "symbol": {},
+            "executeCommand": {}
+          },
+          "textDocument": {
+            "synchronization": {
+              "willSave": true,
+              "willSaveWaitUntil": true,
+              "didSave": true
+            },
+            "completion": {
+              "completionItem": {
+                "snippetSupport": false
+              }
+            },
+            "hover": {},
+            "signatureHelp": {},
+            "references": {},
+            "documentHighlight": {},
+            "formatting": {},
+            "rangeFormatting": {},
+            "onTypeFormatting": {},
+            "definition": {},
+            "codeAction": {},
+            "rename": {}
+          }
+        }
+      }
+    }
+
+2020-04-02 16:31:39.671 [VERBOSE] tid:26 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Response 'initialize' with id 1
+    
+    {
+      "jsonrpc": "2.0",
+      "id": "1",
+      "result": {
+        "capabilities": {
+          "textDocumentSync": 2,
+          "hoverProvider": true,
+          "completionProvider": {
+            "resolveProvider": true,
+            "triggerCharacters": [
+              ".",
+              "-",
+              ":",
+              "\\"
+            ]
+          },
+          "signatureHelpProvider": {
+            "triggerCharacters": [
+              " "
+            ]
+          },
+          "definitionProvider": true,
+          "referencesProvider": true,
+          "documentHighlightProvider": true,
+          "documentSymbolProvider": true,
+          "workspaceSymbolProvider": true,
+          "codeActionProvider": true,
+          "codeLensProvider": {
+            "resolveProvider": true
+          },
+          "documentFormattingProvider": false,
+          "documentRangeFormattingProvider": false,
+          "documentOnTypeFormattingProvider": null,
+          "renameProvider": false,
+          "documentLinkProvider": null,
+          "executeCommandProvider": null,
+          "experimental": null,
+          "foldingRangeProvider": true
+        }
+      }
+    }
+
+2020-04-02 16:31:40.078 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Event 'textDocument/didOpen'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "textDocument/didOpen",
+      "params": {
+        "textDocument": {
+          "uri": "file:///C:/Users/j.swannack/Source/analysislibrary/analysislibrary/docs/update_docs.ps1",
+          "languageId": "PowerShell",
+          "version": -1,
+          "text": "$module_prefix = \"   \"\n$module_suffix = \"\"\n\n$root_dir = (gi .).parent.parent.FullName\n$root_dir_pattern = [regex]::Escape(\"$root_dir\\\")\n\nls -r ..\\ *.py `\n  | ? {$_.FullName -notmatch \".*UnitTests.*\"} `\n  | ? {$_.FullName -notmatch \".*docs.*\"} `\n  | ? {$_.FullName -notmatch \".*NRLMSISE00.*\"} `\n  | ? {(gc $_.FullName) -match \"('''|`\"`\"`\")\"} `\n  | % {$_.FullName -replace $root_dir_pattern} `\n  | % {$_ -replace \".py\" -replace \"\\\\__init__\" -replace \"\\\\\", \".\"} `\n  | % {$module_prefix + $_ + $module_suffix} `\n  | sc \".\\source\\index.rst.body\"\n\n\nsc .\\source\\index.rst \"\"\ngc .\\source\\index.rst.head | ac .\\source\\index.rst\ngc .\\source\\index.rst.body | ac .\\source\\index.rst\ngc .\\source\\index.rst.tail | ac .\\source\\index.rst\n\nsphinx-autogen -o .\\source\\generated .\\source\\index.rst\n.\\make html\nstart .\\build\\html\\index.html\n"
+        }
+      }
+    }
+
+2020-04-02 16:31:40.083 [VERBOSE] tid:26 in 'ResolveFilePath' C:\PowerShellEditorServices\src\PowerShellEditorServices\Workspace\Workspace.cs: line 471
+    Resolved path: C:\Users\j.swannack\Source\analysislibrary\analysislibrary\docs\update_docs.ps1
+
+2020-04-02 16:31:40.085 [VERBOSE] tid:26 in 'GetFileBuffer' C:\PowerShellEditorServices\src\PowerShellEditorServices\Workspace\Workspace.cs: line 203
+    Opened file as in-memory buffer: C:\Users\j.swannack\Source\analysislibrary\analysislibrary\docs\update_docs.ps1
+
+2020-04-02 16:31:40.086 [VERBOSE] tid:26 in 'HandleDidOpenTextDocumentNotification' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs: line 611
+    Finished opening document.
+
+2020-04-02 16:31:41.789 [VERBOSE] tid:14 in 'GetDiagnosticRecordsAsync' C:\PowerShellEditorServices\src\PowerShellEditorServices\Analysis\AnalysisService.cs: line 523
+    Found 19 violations
+
+2020-04-02 16:31:41.827 [VERBOSE] tid:14 in 'DelayThenInvokeDiagnostics' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs: line 1655
+    Script analysis of C:\Users\j.swannack\Source\analysislibrary\analysislibrary\docs\update_docs.ps1 completed. [985ms]
+
+2020-04-02 16:31:41.834 [VERBOSE] tid:26 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Event 'textDocument/publishDiagnostics'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "textDocument/publishDiagnostics",
+      "params": {
+        "uri": "file:///C:/Users/j.swannack/Source/analysislibrary/analysislibrary/docs/update_docs.ps1",
+        "diagnostics": [
+          {
+            "range": {
+              "start": {
+                "line": 3,
+                "character": 13
+              },
+              "end": {
+                "line": 3,
+                "character": 15
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'gi' is an alias of 'Get-Item'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 6,
+                "character": 0
+              },
+              "end": {
+                "line": 6,
+                "character": 2
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'ls' is an alias of 'Get-ChildItem'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 7,
+                "character": 4
+              },
+              "end": {
+                "line": 7,
+                "character": 5
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'?' is an alias of 'Where-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 8,
+                "character": 4
+              },
+              "end": {
+                "line": 8,
+                "character": 5
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'?' is an alias of 'Where-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 9,
+                "character": 4
+              },
+              "end": {
+                "line": 9,
+                "character": 5
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'?' is an alias of 'Where-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 10,
+                "character": 4
+              },
+              "end": {
+                "line": 10,
+                "character": 5
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'?' is an alias of 'Where-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 10,
+                "character": 8
+              },
+              "end": {
+                "line": 10,
+                "character": 10
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'gc' is an alias of 'Get-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 11,
+                "character": 4
+              },
+              "end": {
+                "line": 11,
+                "character": 5
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'%' is an alias of 'ForEach-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 12,
+                "character": 4
+              },
+              "end": {
+                "line": 12,
+                "character": 5
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'%' is an alias of 'ForEach-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 13,
+                "character": 4
+              },
+              "end": {
+                "line": 13,
+                "character": 5
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'%' is an alias of 'ForEach-Object'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 14,
+                "character": 4
+              },
+              "end": {
+                "line": 14,
+                "character": 6
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'sc' is an alias of 'Set-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 17,
+                "character": 0
+              },
+              "end": {
+                "line": 17,
+                "character": 2
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'sc' is an alias of 'Set-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 18,
+                "character": 0
+              },
+              "end": {
+                "line": 18,
+                "character": 2
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'gc' is an alias of 'Get-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 18,
+                "character": 29
+              },
+              "end": {
+                "line": 18,
+                "character": 31
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'ac' is an alias of 'Add-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 19,
+                "character": 0
+              },
+              "end": {
+                "line": 19,
+                "character": 2
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'gc' is an alias of 'Get-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 19,
+                "character": 29
+              },
+              "end": {
+                "line": 19,
+                "character": 31
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'ac' is an alias of 'Add-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 20,
+                "character": 0
+              },
+              "end": {
+                "line": 20,
+                "character": 2
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'gc' is an alias of 'Get-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 20,
+                "character": 29
+              },
+              "end": {
+                "line": 20,
+                "character": 31
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'ac' is an alias of 'Add-Content'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          },
+          {
+            "range": {
+              "start": {
+                "line": 24,
+                "character": 0
+              },
+              "end": {
+                "line": 24,
+                "character": 5
+              }
+            },
+            "severity": 2,
+            "code": "PSAvoidUsingCmdletAliases",
+            "message": "'start' is an alias of 'Start-Process'. Alias can introduce possible problems and make scripts hard to maintain. Please consider changing alias to its full content.",
+            "source": "PSScriptAnalyzer"
+          }
+        ]
+      }
+    }
+
+2020-04-02 16:32:06.297 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Event 'textDocument/didClose'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "textDocument/didClose",
+      "params": {
+        "textDocument": {
+          "uri": "file:///C:/Users/j.swannack/Source/analysislibrary/analysislibrary/docs/update_docs.ps1"
+        }
+      }
+    }
+
+2020-04-02 16:32:06.299 [VERBOSE] tid:26 in 'ResolveFilePath' C:\PowerShellEditorServices\src\PowerShellEditorServices\Workspace\Workspace.cs: line 471
+    Resolved path: C:\Users\j.swannack\Source\analysislibrary\analysislibrary\docs\update_docs.ps1
+
+2020-04-02 16:32:06.302 [VERBOSE] tid:26 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Event 'textDocument/publishDiagnostics'
+    
+    {
+      "jsonrpc": "2.0",
+      "method": "textDocument/publishDiagnostics",
+      "params": {
+        "uri": "file:///C:/Users/j.swannack/Source/analysislibrary/analysislibrary/docs/update_docs.ps1",
+        "diagnostics": []
+      }
+    }
+
+2020-04-02 16:32:06.304 [VERBOSE] tid:26 in 'HandleDidCloseTextDocumentNotification' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs: line 629
+    Finished closing document.
+
+2020-04-02 19:16:30.408 [VERBOSE] tid:26 in 'ReadMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageReader.cs: line 138
+    Received Request 'shutdown' with id 2
+    
+    {
+      "jsonrpc": "2.0",
+      "id": "2",
+      "method": "shutdown"
+    }
+
+2020-04-02 19:16:30.413 [VERBOSE] tid:26 in 'WriteMessage' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\MessageProtocol\MessageWriter.cs: line 88
+    Writing Response 'shutdown' with id 2
+    
+    {
+      "jsonrpc": "2.0",
+      "id": "2",
+      "result": {}
+    }
+

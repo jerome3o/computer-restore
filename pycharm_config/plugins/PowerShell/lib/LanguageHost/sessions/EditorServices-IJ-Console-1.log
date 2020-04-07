@@ -1,0 +1,35 @@
+2020-04-07 13:39:07.055 [NORMAL] tid:16 in 'StartLogging' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 183
+    
+    PowerShell Editor Services Host v1.10.1.0 starting (PID 33068
+    
+      Host application details:
+    
+        Name:      PyCharm
+        Version:   2019.3.1
+        ProfileId: com.intellij.plugin.PowerShell
+        Arch:      X64
+    
+      Operating system details:
+    
+        Version: Microsoft Windows 10.0.17763 
+        Arch:    X64
+    
+      Build information:
+    
+        Version: <development-build>
+        Origin:  <development>
+        Date:    2018-12-08T00:37:16
+    
+
+2020-04-07 13:39:07.071 [NORMAL] tid:16 in 'StartLanguageService' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 202
+    Language service started, type = NamedPipe, endpoint = In pipe: PSES_qhabp4f2.4dm Out pipe: PSES_fcre33vq.djt
+
+2020-04-07 13:39:07.075 [NORMAL] tid:16 in 'StartDebugService' C:\PowerShellEditorServices\src\PowerShellEditorServices.Host\EditorServicesHost.cs: line 279
+    Debug service started, type = NamedPipe, endpoint = In pipe: PSES_wqc4sfll.ubp Out pipe: PSES_pxzaxutn.eea
+
+2020-04-07 13:39:10.507 [NORMAL] tid:18 in 'Initialize' C:\PowerShellEditorServices\src\PowerShellEditorServices\Session\PowerShellContext.cs: line 221
+    PowerShell runtime version: 5.1.17763.1007, edition: Desktop
+
+2020-04-07 13:39:28.734 [NORMAL] tid:27 in 'Stop' C:\PowerShellEditorServices\src\PowerShellEditorServices.Protocol\Server\LanguageServer.cs: line 174
+    Language service is shutting down...
+

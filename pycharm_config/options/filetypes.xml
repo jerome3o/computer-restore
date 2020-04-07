@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="making sure this isnt source controlled" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="tail" type="PLAIN_TEXT" />
+      <mapping ext="body" type="PLAIN_TEXT" />
+      <mapping ext="jsonpickle" type="PLAIN_TEXT" />
+      <mapping ext="vba" type="PLAIN_TEXT" />
+      <mapping ext="head" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,63 @@
+6
+-. . -..- - / . -. - .-. -.--
+a = _
+-. . -..- - / . -. - .-. -.--
+a
+-. . -..- - / . -. - .-. -.--
+time
+-. . -..- - / . -. - .-. -.--
+len(time)
+-. . -..- - / . -. - .-. -.--
+import json
+-. . -..- - / . -. - .-. -.--
+len(args)
+-. . -..- - / . -. - .-. -.--
+json.dumps(args)
+-. . -..- - / . -. - .-. -.--
+os.system("pip install jsonpickle")
+-. . -..- - / . -. - .-. -.--
+jsonpickle.dumps(args)
+-. . -..- - / . -. - .-. -.--
+with open(r"C:\Users\j.swannack\Source\analysislibrary\analysislibrary\Tests\UnitTests\DataAnalysisTests\StrainTests\TestData\waterfall_PSD_test_data_1.json", "w") as f:
+    f.write(jsonpickle.dumps(args))
+    
+-. . -..- - / . -. - .-. -.--
+open(r"C:\Users\j.swannack\Source\analysislibrary\analysislibrary\Tests\UnitTests\DataAnalysisTests\StrainTests\TestData\waterfall_PSD_test_data_1.json", 'w').write(jsonpickle.dumps(args))
+-. . -..- - / . -. - .-. -.--
+f = _
+-. . -..- - / . -. - .-. -.--
+f.close()
+-. . -..- - / . -. - .-. -.--
+f
+-. . -..- - / . -. - .-. -.--
+close(f)
+-. . -..- - / . -. - .-. -.--
+type(f)
+-. . -..- - / . -. - .-. -.--
+open(r"C:\Users\j.swannack\Source\analysislibrary\analysislibrary\Tests\UnitTests\DataAnalysisTests\StrainTests\TestData\waterfall_PSD_test_data_2.json", 'w').write(jsonpickle.dumps(args))
+-. . -..- - / . -. - .-. -.--
+args = time,
+                  measure,
+                  tw,
+                  overlap,
+                  t0,
+                  buffer,
+                  nperseg,
+                  fs
+-. . -..- - / . -. - .-. -.--
+args = (time,
+                  measure,
+                  tw,
+                  overlap,
+                  t0,
+                  buffer,
+                  nperseg,
+                  fs)
+-. . -..- - / . -. - .-. -.--
+args
+-. . -..- - / . -. - .-. -.--
+import jsonpickle
+-. . -..- - / . -. - .-. -.--
+with open(r'C:\Users\j.swannack\Source\analysislibrary\analysislibrary\Tests\UnitTests\DataAnalysisTests\StrainTests\TestData\waterfall_PSD_test_data_1.json', 'w') as f:
+    f.write(jsonpickle.dumps(args))
+    

@@ -1,0 +1,87 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.-1920.0.1920.1080" x="-1263" y="118" />
+    <location key="find.popup.0.0.1920.1080" x="547" y="136" />
+    <location key="find.popup.1920.0.1920.1080" x="2467" y="136" />
+    <location key="find.popup.-1920.4.1920.1080" x="-1373" y="140" />
+    <location key="find.popup.1920.-278.1080.1920" x="2228" y="-32" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1899" height="122" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1899" height="122" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1899" height="122" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1899" height="122" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1899" height="196" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1899" height="196" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1899" height="196" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1899" height="196" />
+    <size key="GridCell.Tab.0.left.-1920.0.1920.1080" width="1899" height="341" />
+    <size key="GridCell.Tab.0.center.-1920.0.1920.1080" width="1899" height="341" />
+    <size key="GridCell.Tab.0.right.-1920.0.1920.1080" width="1899" height="341" />
+    <size key="GridCell.Tab.0.bottom.-1920.0.1920.1080" width="1899" height="341" />
+    <size key="GridCell.Tab.1.left.-1920.0.1920.1080" width="1899" height="452" />
+    <size key="GridCell.Tab.1.center.-1920.0.1920.1080" width="1899" height="452" />
+    <size key="GridCell.Tab.1.right.-1920.0.1920.1080" width="1899" height="452" />
+    <size key="GridCell.Tab.1.bottom.-1920.0.1920.1080" width="1899" height="452" />
+    <size key="find.popup.-1920.0.1920.1080" width="606" height="804" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1899" height="122" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1899" height="122" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1899" height="122" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1899" height="122" />
+    <size key="GridCell.Tab.-1.left.0.0.1920.1080" width="1899" height="362" />
+    <size key="GridCell.Tab.-1.center.0.0.1920.1080" width="1899" height="362" />
+    <size key="GridCell.Tab.-1.right.0.0.1920.1080" width="1899" height="362" />
+    <size key="GridCell.Tab.-1.bottom.0.0.1920.1080" width="1899" height="362" />
+    <size key="find.popup.0.0.1920.1080" width="1240" height="804" />
+    <size key="find.popup.1920.0.1920.1080" width="1240" height="804" />
+    <size key="GridCell.Tab.0.left.0.0.1080.1920" width="1059" height="492" />
+    <size key="GridCell.Tab.0.center.0.0.1080.1920" width="1059" height="492" />
+    <size key="GridCell.Tab.0.right.0.0.1080.1920" width="1059" height="492" />
+    <size key="GridCell.Tab.0.bottom.0.0.1080.1920" width="1059" height="492" />
+    <size key="GridCell.Tab.0.left.-1080.-340.1080.1920" width="1059" height="415" />
+    <size key="GridCell.Tab.0.center.-1080.-340.1080.1920" width="1059" height="415" />
+    <size key="GridCell.Tab.0.right.-1080.-340.1080.1920" width="1059" height="415" />
+    <size key="GridCell.Tab.0.bottom.-1080.-340.1080.1920" width="1059" height="415" />
+    <size key="GridCell.Tab.0.left.-1920.4.1920.1080" width="1899" height="395" />
+    <size key="GridCell.Tab.0.center.-1920.4.1920.1080" width="1899" height="395" />
+    <size key="GridCell.Tab.0.right.-1920.4.1920.1080" width="1899" height="395" />
+    <size key="GridCell.Tab.0.bottom.-1920.4.1920.1080" width="1899" height="395" />
+    <size key="find.popup.-1920.4.1920.1080" width="1240" height="804" />
+    <size key="GridCell.Tab.0.left.1920.-278.1080.1920" width="1059" height="502" />
+    <size key="GridCell.Tab.0.center.1920.-278.1080.1920" width="1059" height="502" />
+    <size key="GridCell.Tab.0.right.1920.-278.1080.1920" width="1059" height="502" />
+    <size key="GridCell.Tab.0.bottom.1920.-278.1080.1920" width="1059" height="502" />
+    <size key="find.popup.1920.-278.1080.1920" width="698" height="1454" />
+  </component>
+  <component name="WindowManager">
+    <frame x="1842" y="-295" width="1080" height="1040" extendedState="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20010532" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24960506" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.24960506" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3425532" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4680851" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.1574468" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" weight="0.32978722" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.25212765" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3287234" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.38723403" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="2316" y="190" key="FileChooserDialogImpl" timestamp="1583117797500">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2316" y="190" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040" timestamp="1583117797500" />
+    <state x="875" y="376" width="864" height="350" key="bookmarks" timestamp="1585700186329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="875" y="376" width="864" height="350" key="bookmarks/0.0.1920.1040/1920.0.1920.1040" timestamp="1585700186329" />
+  </component>
+</application>

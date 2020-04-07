@@ -1,0 +1,50 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200402190540
+Username: ROCKETLAB\j.swannack
+RunAs User: ROCKETLAB\j.swannack
+Configuration Name: 
+Machine: AKL-JSWANNACK (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive C:\Users\j.swannack\AppData\Local\Temp\start-pses-host17273232092982706009.ps1
+Process ID: 34384
+PSVersion: 5.1.17763.1007
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.1007
+BuildVersion: 10.0.17763.1007
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+VERBOSE: 
+#-- Console Encoding ---------------------------------------------------------
+VERBOSE: System.Text.ASCIIEncoding
+VERBOSE: 
+#-- Updated PSModulePath to: -------------------------------------------------
+VERBOSE: \\rocketlab.local\users\apc\j.swannack\Documents\WindowsPowerShell\Modules
+VERBOSE: C:\Program Files\WindowsPowerShell\Modules
+VERBOSE: C:\windows\system32\WindowsPowerShell\v1.0\Modules
+VERBOSE: C:/Users/j.swannack/.PyCharmCE2019.3/config/plugins/PowerShell/lib/LanguageHost/modules
+VERBOSE: 
+#-- Check required modules available -----------------------------------------
+VERBOSE: Testing module availability PowerShellGet
+VERBOSE: Loading module from path 'C:\Program Files\WindowsPowerShell\Modules\PowerShellGet\1.0.0.1\PSModule.psm1'.
+VERBOSE: PowerShellGet  found
+VERBOSE: 
+#-- Start up PowerShellEditorServices ----------------------------------------
+VERBOSE: Importing PowerShellEditorServices
+VERBOSE: Loading module from path 'C:\Users\j.swannack\.PyCharmCE2019.3\config\plugins\PowerShell\lib\LanguageHost\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'.
+VERBOSE: Loading module from path 'C:\Users\j.swannack\.PyCharmCE2019.3\config\plugins\PowerShell\lib\LanguageHost\modules\PowerShellEditorServices\PowerShellEditorServices.psm1'.
+VERBOSE: Exporting function 'Start-EditorServicesHost'.
+VERBOSE: Exporting function 'Compress-LogDir'.
+VERBOSE: Exporting function 'Get-PowerShellEditorServicesVersion'.
+VERBOSE: Importing function 'Compress-LogDir'.
+VERBOSE: Importing function 'Get-PowerShellEditorServicesVersion'.
+VERBOSE: Importing function 'Start-EditorServicesHost'.
+VERBOSE: Invoking Start-EditorServicesHost
+VERBOSE: Start-EditorServicesHost returned Microsoft.PowerShell.EditorServices.Host.EditorServicesHost
+VERBOSE: Writing session file with contents:
+VERBOSE: {"languageServiceTransport":"NamedPipeSimplex","debugServiceReadPipeName":"\\\\.\\pipe\\PSES_bnizfw0r.vkt","debugServiceTransport":"NamedPipeSimplex","debugServiceWritePipeName":"\\\\.\\pipe\\PSES_xvkb3jpo.wvq","languageServiceReadPipeName":"\\\\.\\pipe\\PSES_t0ylqtq5.gc5","status":"started","languageServiceWritePipeName":"\\\\.\\pipe\\PSES_2xsq43bm.pob"}
+VERBOSE: Wrote out session file
+VERBOSE: 
+#-- Waiting for EditorServicesHost to complete execution ---------------------

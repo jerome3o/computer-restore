@@ -1,0 +1,12 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="ActivateStructureToolWindow" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+</keymap>
