@@ -1228,8 +1228,9 @@ xkb_symbols "pc+us+us:2+inet(evdev)" {
         symbols[Group1]= [               t,               T ]
     };
     key <AD06> {
-        type= "ALPHABETIC",
-        symbols[Group1]= [               y,               Y ]
+        type= "CUST_CAPSLOCK",
+        symbols[Group1]= [               y,               Y, Prior ],
+        actions[Group1]= [      NoAction(),      NoAction(),   RedirectKey(keycode=<PGUP>, clearmods=Lock) ]
     };
     key <AD07> {
         type= "CUST_CAPSLOCK",
@@ -1326,8 +1327,9 @@ xkb_symbols "pc+us+us:2+inet(evdev)" {
         symbols[Group1]= [               b,               B ]
     };
     key <AB06> {
-        type= "ALPHABETIC",
-        symbols[Group1]= [               n,               N ]
+        type= "CUST_CAPSLOCK",
+        symbols[Group1]= [               n,               N, Next ],
+        actions[Group1]= [      NoAction(),      NoAction(),   RedirectKey(keycode=<PGDN>, clearmods=Lock) ]
     };
     key <AB07> {
         type= "CUST_CAPSLOCK",
